@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-07-17T22:31:30.976Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" etag="uXW0Br13SPrgeccVO_D4" version="24.7.1" type="device">
+  <diagram name="Page-1" id="a8bbzqk-TlxrQTSqdSZc">
+    <mxGraphModel dx="1949" dy="1136" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="EV0LIlaQeUkqNrILrGjG-1" target="EV0LIlaQeUkqNrILrGjG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Read data from CSV and &lt;br&gt;parse/format&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="EV0LIlaQeUkqNrILrGjG-3" target="EV0LIlaQeUkqNrILrGjG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Create SQLite database&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="EV0LIlaQeUkqNrILrGjG-5" target="EV0LIlaQeUkqNrILrGjG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-5" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Create Video Profiles with Statistics&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="460" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="EV0LIlaQeUkqNrILrGjG-7" target="EV0LIlaQeUkqNrILrGjG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Ingest into DB each video profile &lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finally &lt;i&gt;&quot;youtube_videos&lt;/i&gt;.&lt;i&gt;db&lt;/i&gt;&quot; is created&lt;br&gt;which is our DB&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="750" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EV0LIlaQeUkqNrILrGjG-11" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;u&gt;Data Ingestion Flow&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="20" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
