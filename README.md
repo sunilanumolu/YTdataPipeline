@@ -28,17 +28,19 @@ This project implements a Trending YouTube videos data processing pipeline using
 
 -  `app/`: Contains the main application code.
 
--  `routers/`: Contains api endpoints functions.
+-  `app/routers/`: Contains api endpoints functions.
 
--  `scripts/`: Contains scripts for data ingestion.
+-  `scripts/`: Contains scripts for data ingestion and data verification.
 
--  `config/`: Configuration files.
+-  `config/`: Configuration & Settings files.
 
 -  `data/`: Directory for storing the dataset.
 
--  `requirements.txt`: List of Python dependencies.
+-  `requirements.txt`: List of Project dependencies.
 
 -  `README.md`: Project documentation.
+
+-  `designs/`: Contains system design doc and data Ingestion flow doc
 
   
 
