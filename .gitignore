@@ -1,0 +1,5 @@
+env/
+youtube_videos.db
+object_store
+*/__pycache__
+*/*/__pycache__
